@@ -1,0 +1,13 @@
+6ff0cc91b23f727378a34ffc9218fde2 *DESCRIPTION
+a7bc5e24ff0efe239311a69b274aae1f *NAMESPACE
+7a88e73e23e63a931be1aa0ff6c03aa7 *R/JLchemix.r
+0bc5db4f2276279882f180a3b360be5c *R/sampledata.r
+9f1332e98335ec1b75c2747458b2206c *README.md
+96f501676519772158806fe375887036 *build/vignette.rds
+22f7b1f74558fb9b78d75fbf96332c65 *data/sampledata.rda
+026b8500af60e02d50a23355bdc8ab9d *inst/doc/lchemix-vignette.R
+dd87e16a5ae9c5ca564fd71f54fb9664 *inst/doc/lchemix-vignette.Rmd
+a4bd107054fedecc791b7b1814a1dcb3 *inst/doc/lchemix-vignette.html
+7bb6dc2845a95939030885e40a0c79bb *man/JLchemix.Rd
+b24a8b679d66e1a725becb84d9861fd1 *man/sampledata.Rd
+dd87e16a5ae9c5ca564fd71f54fb9664 *vignettes/lchemix-vignette.Rmd
